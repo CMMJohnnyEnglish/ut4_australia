@@ -12,7 +12,7 @@
 *MATERIAL_LIST {
 	*MATERIAL_COUNT 1
 	*MATERIAL 0 {
-		*MATERIAL_NAME "textures/ko_australia/modeltrim"
+		*MATERIAL_NAME "textures/cmm_australia/modeltrim"
 		*MATERIAL_CLASS "Standard"
 		*MATERIAL_AMBIENT 0.58823532	0.58823532	0.58823532
 		*MATERIAL_DIFFUSE 0.58823532	0.58823532	0.58823532
@@ -31,7 +31,7 @@
 			*MAP_CLASS "Bitmap"
 			*MAP_SUBNO 1
 			*MAP_AMOUNT 1.00000000
-			*BITMAP "Z:\home\john\mapping\textures\ko_australia\modeltrim.jpg"
+			*BITMAP "Z:\home\john\mapping\textures\cmm_australia\modeltrim.jpg"
 			*MAP_TYPE Screen
 			*UVW_U_OFFSET 0.00000000
 			*UVW_V_OFFSET 0.00000000
